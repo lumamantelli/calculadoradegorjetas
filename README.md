@@ -1,16 +1,7 @@
-![2023-01-30 (1)](https://user-images.githubusercontent.com/114085660/215583388-3d4555dd-a26e-4044-9361-9de9fb111fd9.png)
-
-## Calculadora de gorjetas 💸
-Projeto de uma calculadora, que faz a soma da conta do jantar com a taxa de serviço e divide pelo número de pessoas
-Feito com HTML, CSS e JavaScript
+## <p style="text-align:center">Calculadora de gorjetas 💸</p>
+<center>Projeto de uma calculadora, que faz a soma da conta do jantar com a taxa de serviço e divide pelo número de pessoas
+Feito com HTML, CSS e JavaScript</center>
  
-
-
-Sumário
-
-Sobre   |   Funcionalidades   |   Tecnologias   |   Serviços
-
-Imagens   |   Como usar   |   Pré-requisitos   |   Links   |   Autor
 
  
 
@@ -53,13 +44,13 @@ As principais funcionalidades do projeto são:
  
 ### 📷 Imagens
 
-Exemplo de funcionamento:
+Exemplo de funcionamento:    
 
-Exemplo de execução do projeto
+Exemplo de execução do projeto  
 
 Captura de tela da calculadora:
 
-Imagem do projeto
+![2023-01-30 (1)](https://user-images.githubusercontent.com/114085660/215583388-3d4555dd-a26e-4044-9361-9de9fb111fd9.png)
  
 
 ### 📙 Como usar
@@ -83,7 +74,7 @@ Deploy: <https://calculadoradegorjetas.vercel.app/>
 ### ✨ Autor
 Feito por Luma Mantelli
 
- 
+![Design-sem-nome-wJTHCimuY-transformed](https://user-images.githubusercontent.com/114085660/215860277-706feaee-c238-49f5-9587-64d8b17297f3.png)
 
-Linkedin Badge
-Gmail Badge
+<a href="https://www.linkedin.com/in/luma-mantelli-81556b194/" target="_blank">Linkedin - Luma Mantelli</a>   
+<a href="mailto:luma.mantelli123@gmail.com" target="_blank">Gmail - Luma Mantelli</a>
