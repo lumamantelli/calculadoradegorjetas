@@ -75,8 +75,9 @@ Para utilizar o sistema, basta um navegador de sua preferência e conexão com i
  
 
 ### 🔗 Links
-Repositório: 
-Deploy: https:
+Repositório: <https://github.com/lumamantelli/calculadoradegorjetas.git>
+
+Deploy: <https://calculadoradegorjetas.vercel.app/>
  
 
 ### ✨ Autor
